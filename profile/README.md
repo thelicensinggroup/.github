@@ -4,8 +4,8 @@ The Licensing Group (originally the Re-usable License Collaboration) was founded
 
 # Project Status
 
-Our website is currently transitioning to a new CMS. For now there's not much content.
+Our website has just transitioned to a new design. Until we can get all our old content re-added, there isn't much on the site.
 
 # Contributing
 
-We are not currently accepting new members.
+We are not currently accepting contributions.
